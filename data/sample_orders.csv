@@ -1,0 +1,12 @@
+
+order_id,customer_id,product,category,amount,order_status
+101,C001,Laptop,Electronics,50000,Delivered
+102,C002,Mobile,Electronics,20000,Delivered
+103,C003,Shoes,Fashion,3000,Pending
+104,C004,Tablet,Electronics,15000,Delivered
+105,C005,Shirt,Fashion,2000,Cancelled
+106,C006,Headphones,Electronics,,Delivered
+107,C007,Watch,Fashion,5000,Pending
+108,C008,Mobile,Electronics,20000,Delivered
+108,C008,Mobile,Electronics,20000,Delivered
+109,C009,Keyboard,Electronics,2500,
